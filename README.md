@@ -1,9 +1,9 @@
-<h1 align="center">⏤͟͟͞͞𝐾𝑎𝑛𝑒𝑘𝑧𝑛 𝐵𝑜𝑡 𝑀𝐷᭄</h1>
+<h1 align="center">⏤͟͟͞͞Kanekzn Bot MD᭄</h1>
  <p align="center">🌹 WhatsApp Bot Node-Js.</p>
 </p>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio+Oficial+de;Kanekzn+Bot-MD;Creado+por+Cristian+Escobar)](https://git.io/typing-svg)
-![Kanekzn](https://qu.ax/CDaWO.jpg)
+![Kanekzn]()
 
 ## Avisos Importantes
 
