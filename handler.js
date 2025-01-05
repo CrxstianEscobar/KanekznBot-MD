@@ -1,5 +1,5 @@
 import { generateWAMessageFromContent } from "baileys";
-import { smsg } from './src/libraries/simple.js';
+import { smsg } from '.lib/simple.js';
 import { format } from 'util';
 import { fileURLToPath } from 'url';
 import path, { join } from 'path';
