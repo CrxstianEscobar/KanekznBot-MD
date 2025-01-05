@@ -3,7 +3,7 @@
 </p>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio+Oficial+de;Kanekzn+Bot-MD;Creado+por+Cristian+Escobar)](https://git.io/typing-svg)
-![Kanekzn](https://i.ibb.co/1zrVzLh/file.jpg)
+![Kanekzn](https://i.ibb.co/ZM3rw6z/file.jpg)
 
 ## Avisos Importantes
 
